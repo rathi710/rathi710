@@ -31,6 +31,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rathi710&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amit-2024&show_icons=true&locale=en" alt="amit-2024" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rathi710&show_icons=true&layout=compact&theme=vision-friendly-dark /></p>
 
 
