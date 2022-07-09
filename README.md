@@ -3,7 +3,7 @@
 # Hello👋, I am Vishesh Rathi.
 
 - 📝 I love to code.
-- 💬 Ask me about  <strong>C++, Web Development & Data structures & algo. Reactjs</strong>
+- 💬 Ask me about  <strong>C++, Web Development & Data structures </strong>
 - 📫 How to reach me: Mail me on <a>vishesh.rathi.710@gmail.com</a>
 
 #
