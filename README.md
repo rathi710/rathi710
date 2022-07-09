@@ -1,7 +1,9 @@
+![](https://komarev.com/ghpvc/?username=rathi710)
+
 # Hello👋, I am Vishesh Rathi.
 
 - 📝 I love to code.
-- 💬 Ask me about  <strong>C, C++, Java, HTML, CSS</strong>
+- 💬 Ask me about  <strong>C++, Web Development & Data structures & algo. Reactjs</strong>
 - 📫 How to reach me: Mail me on <a>vishesh.rathi.710@gmail.com</a>
 
 #
@@ -28,19 +30,5 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rathi710&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rathi710&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-#
-### Connect with me:
-<!-- <p>
- 
- <a href="https://www.linkedin.com/in/kanchan-bartwal-1ba09a209/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/rathi710/Kanchan-Bartwal/blob/main/socials/linkedin.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:kanchanbartwal10@gmail.com"> <img src="https://github.com/Kanchan-Bartwal/Kanchan-Bartwal/blob/main/socials/email.png" alt="Email" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="https://kanchan-developer-designer.herokuapp.com/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/Kanchan-Bartwal/Kanchan-Bartwal/blob/main/socials/web-search-engine.png" alt="Website" height="40" style="vertical-align:top; margin:4px"> </a>
-</p>
 
-### Other platforms where I'm active:
-<p>
- <a href="https://www.instagram.com/kanchan.bartwal/?utm_medium=copy_link" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/Kanchan-Bartwal/Kanchan-Bartwal/blob/main/socials/instagram.png" alt="Instagram" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://leetcode.com/Kanchan-Bartwal/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/Kanchan-Bartwal/Kanchan-Bartwal/blob/main/socials/leetcode.png" alt="Leetcode" height="40" style="vertical-align:top; margin:4px"> </a>
-</p>
-
- -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=rathi710)](https://github.com/ryo-ma/github-profile-trophy)
